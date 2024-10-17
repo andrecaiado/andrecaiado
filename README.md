@@ -2,7 +2,7 @@
 
 I'm André Caiado, a back-end developer from Portugal!
 
-- 🔭 I’m currently working at [xgeekgs](https://github.com/xgeekshq)
+- 🔭 I’m currently working at [xgeeks](https://github.com/xgeekshq)
 - 💚 I'm passionate about Java and the Spring framework
 - 🌱 I’m currently learning NestJS
 
