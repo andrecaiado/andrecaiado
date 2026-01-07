@@ -4,7 +4,6 @@ I'm André Caiado, a back-end developer from Portugal!
 
 - 🔭 I’m currently working at [xgeeks](https://github.com/xgeekshq)
 - 💚 I'm passionate about Java and the Spring framework
-- 🌱 I’m currently learning NestJS
 
 <!--
 **andrecaiado/andrecaiado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
